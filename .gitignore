@@ -1,0 +1,9 @@
+.env
+.mypy_cache/
+venv/
+__pycache__/
+/config/.env
+/tmp/*
+/cfg.pkl
+/config/cfg.pkl
+/.idea
